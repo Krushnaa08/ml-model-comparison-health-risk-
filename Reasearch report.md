@@ -54,7 +54,8 @@ Despite Random Forest achieving competitive accuracy, Logistic Regression was ch
 
 The results suggest that simpler models can be effective for disease risk prediction and that model selection should consider interpretability alongside performance metrics.
 
----
+---![model_training](https://github.com/user-attachments/assets/2665a00c-3582-425c-84e2-9474c9fd4975)
+
 
 ## **6\. Conclusion and Future Work**
 
